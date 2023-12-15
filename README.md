@@ -1,1 +1,1 @@
-# Click-Fit
+# ClickFit
